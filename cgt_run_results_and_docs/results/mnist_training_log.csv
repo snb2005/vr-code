@@ -1,0 +1,4 @@
+epoch,epoch_time_s,max_gpu_memory_bytes,train_loss,optimizer,learning_rate,batch_size
+1,5.131815,58429440,0.362658,Adam,0.001,256
+2,4.883730,58429440,0.105493,Adam,0.001,256
+

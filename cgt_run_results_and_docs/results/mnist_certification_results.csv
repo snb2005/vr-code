@@ -1,0 +1,2 @@
+network_path,test_images,clean_correct,clean_accuracy_pct,certified_robust,certified_accuracy_pct,total_cert_time_s,cert_time_per_img_s,num_splits
+networks/mnist/cgt_rotate-30^30^0.5.pt,10000,9914,99.14,9421,94.21,66.318,0.00663,240

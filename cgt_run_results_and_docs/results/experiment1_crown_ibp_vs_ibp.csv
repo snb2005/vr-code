@@ -1,0 +1,4 @@
+network_path,method,eval_batch_size,num_images,clean_correct,clean_acc_pct,num_certified,certified_acc_pct,total_cert_time_s,max_gpu_memory_bytes,max_gpu_memory_mb
+networks/mnist/cgt_rotate-30^30^0.5.pt,IBP,32,100,99,99.00,94,94.00,10.6845,35203584,33.57
+networks/mnist/cgt_rotate-30^30^0.5.pt,IBP-C,32,100,99,99.00,94,94.00,4.8746,35203584,33.57
+networks/mnist/cgt_rotate-30^30^0.5.pt,CROWN-IBP,32,100,99,99.00,96,96.00,33.9668,82888704,79.05
